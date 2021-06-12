@@ -1,8 +1,6 @@
 {
   "posts":[
-    {
-        "cds_cntrprty": [
-            {
+             {
                 "key": "Regular Program",
                 "value": "REG",
                 "opics_cntrprty_code": "RE"
@@ -52,9 +50,7 @@
                 "value": "FDG",
                 "opics_cntrprty_code": "FG"
             }
-        ]
-    }
-],
+      ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
