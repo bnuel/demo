@@ -1,0 +1,56 @@
+[
+    {
+        "cds_cntrprty": [
+            {
+                "key": "Regular Program",
+                "value": "REG",
+                "opics_cntrprty_code": "RE"
+            },
+            {
+                "key": "Affordable Housing Program",
+                "value": "AHP",
+                "opics_cntrprty_code": "AH"
+            },
+            {
+                "key": "Community Development Fund",
+                "value": "CDF",
+                "opics_cntrprty_code": "CF"
+            },
+            {
+                "key": "Community Investment Program",
+                "value": "CIP",
+                "opics_cntrprty_code": "CI"
+            },
+            {
+                "key": "Early Rate Program",
+                "value": "ERLY",
+                "opics_cntrprty_code": "ER"
+            },
+            {
+                "key": "Special Rate Program",
+                "value": "SPEC",
+                "opics_cntrprty_code": "SP"
+            },
+            {
+                "key": "Community Mortgage Asset",
+                "value": "CMA",
+                "opics_cntrprty_code": "CM"
+            },
+            {
+                "key": "Urban Development Advance",
+                "value": "UDA",
+                "opics_cntrprty_code": "UD"
+            },
+            {
+                "key": "Rural Development Advance",
+                "value": "RDA",
+                "opics_cntrprty_code": "RD"
+            },
+            {
+                "key": "Funding Agreement",
+                "value": "FDG",
+                "opics_cntrprty_code": "FG"
+            }
+        ]
+    }
+]
