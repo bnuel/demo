@@ -2,7 +2,7 @@
   "posts":[
              {
                 "key": "Regular Program",
-                "value": "REG",
+                "value": REG,
                 "opics_cntrprty_code": "RE"
             },
             {
