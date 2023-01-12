@@ -1,8 +1,8 @@
 {
   "posts":[{"key":"C","value":"some comment"}],
   "comments": [
-    { "key": 1, "value": "some comment" },
-    { "key": 2, "value": "some comment"}
+    { "key": 1, "domain": "some comment" },
+    { "key": 2, "domain": "some comment"}
   ],
   "profile":[{"key":"C","value":"C - CMA Offset"},{"key":"L","value":"L - Liquidity"},{"key":"M","value":"M - Mortgages"},{"key":"O","value":"O - Other"},{"key":"R","value":"R - Restructure Liab."},{"key":"S","value":"S - Spread Business"},{"key":"U","value":"U - Urban Development"},{"key":"W","value":"W - Withdrawls"},{"key":"Z","value":"Z - Rural Development"}]
 }
