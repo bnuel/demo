@@ -1,56 +1,5 @@
 {
-  "posts":[
-             {
-                "key": "Regular Program",
-                "domain": "REG",
-                "opics_cntrprty_code": "RE"
-            },
-            {
-                "key": "Affordable Housing Program",
-                "domain": "AHP",
-                "opics_cntrprty_code": "AH"
-            },
-            {
-                "key": "Community Development Fund",
-                "domain": "CDF",
-                "opics_cntrprty_code": "CF"
-            },
-            {
-                "key": "Community Investment Program",
-                "domain": "CIP",
-                "opics_cntrprty_code": "CI"
-            },
-            {
-                "key": "Early Rate Program",
-                "domain": "ERLY",
-                "opics_cntrprty_code": "ER"
-            },
-            {
-                "key": "Special Rate Program",
-                "domain": "SPEC",
-                "opics_cntrprty_code": "SP"
-            },
-            {
-                "key": "Community Mortgage Asset",
-                "domain": "CMA",
-                "opics_cntrprty_code": "CM"
-            },
-            {
-                "key": "Urban Development Advance",
-                "domain": "UDA",
-                "opics_cntrprty_code": "UD"
-            },
-            {
-                "key": "Rural Development Advance",
-                "domain": "RDA",
-                "opics_cntrprty_code": "RD"
-            },
-            {
-                "key": "Funding Agreement",
-                "domain": "FDG",
-                "opics_cntrprty_code": "FG"
-            }
-      ],
+  "posts":[{"key":"C","value":"C - CMA Offset"},{"key":"L","value":"L - Liquidity"},{"key":"M","value":"M - Mortgages"},{"key":"O","value":"O - Other"},{"key":"R","value":"R - Restructure Liab."},{"key":"S","value":"S - Spread Business"},{"key":"U","value":"U - Urban Development"},{"key":"W","value":"W - Withdrawls"},{"key":"Z","value":"Z - Rural Development"}],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
