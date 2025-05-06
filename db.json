@@ -4,5 +4,18 @@
     { "key": 1, "domain": "some comment" },
     { "key": 2, "domain": "some comment"}
   ],
+  "external": [ 
+    { 
+        "key": "REG", 
+        "value": "REG - Regular Program" 
+    }, 
+    { 
+        "key": "AHP", 
+        "value": "AHP - Affordable Housing Program" 
+    }, 
+    { 
+        "key": "CDF", 
+        "value": "CDF - Community Development Fund" 
+    }], 
   "profile":[{"key":"C","value":"C - CMA Offset"},{"key":"L","value":"L - Liquidity"},{"key":"M","value":"M - Mortgages"},{"key":"O","value":"O - Other"},{"key":"R","value":"R - Restructure Liab."},{"key":"S","value":"S - Spread Business"},{"key":"U","value":"U - Urban Development"},{"key":"W","value":"W - Withdrawls"},{"key":"Z","value":"Z - Rural Development"}]
 }
