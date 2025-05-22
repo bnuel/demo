@@ -1,8 +1,8 @@
 {
   "posts":[{"key":"C","value":"some comment"}, {"key":"D","value":"some comment 2"}, {"key":"E","value":"some comment 3"}, {"key":"F","value":"some comment 4"}],
   "comments": [
-    { "key": 1, "domain": "some comment" },
-    { "key": 2, "domain": "some comment"}
+    { "key": 1, "value": "some comment 1" },
+    { "key": 2, "value": "some comment 2"}
   ],
   "external2": [
     { "key": 1, "value": "some comment 1" },
