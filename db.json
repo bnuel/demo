@@ -4,6 +4,10 @@
     { "key": 1, "domain": "some comment" },
     { "key": 2, "domain": "some comment"}
   ],
+  "external2": [
+    { "key": 1, "value": "some comment 1" },
+    { "key": 2, "value": "some comment 2"}
+  ],
   "external": [ 
     { 
         "key": "REG", 
